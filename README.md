@@ -2,6 +2,12 @@
 
 **St4ltk3r** is a fork of the [ESP8266-MAC-scanner]( ESP8266-MAC-scanner) project designed to transform your ESP8266 into a tracker for people and/or objects. It captures the MAC addresses of Access Points (APs) encountered by the ESP8266 and logs these values into a file using the LittleFS filesystem library.
 
+
+
+**Proof of Concept:** https://youtu.be/-rMa3H_K3M4
+
+
+
 ### Features
 
 - **MAC Address Capture**: Continuously scans and captures the MAC addresses of nearby Wi-Fi Access Points.
